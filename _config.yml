@@ -1,12 +1,12 @@
-title: John Smith
+title: 卢俊洁
 description: My Personal Blog
-author: John Smith
+author: 卢俊洁
 logo: /hcz-jekyll-blog/static/img/avatar.png
-github: https://github.com/codeasashu
-about: Freelance developer
+github: https://github.com/webInwind
+about: 江西丰城洁少,永远的神
 
-baseurl: "https://codeasashu.github.io/hcz-jekyll-blog"
-url: "https://codeasashu.github.io/hcz-jekyll-blog"
+baseurl: "https://github.com/webInwind/blog"
+url: "https://github.com/webInwind/blog"
 
 allowsearch: true
 
